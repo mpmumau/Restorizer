@@ -15,9 +15,9 @@
 /** @var $databases - An array of database */
 $databases = array(
     "default" => array(
-        "db_name" => "indievangelist",
-        "db_user" => "root",
-        "db_password" => "root",
-        "db_host" => "localhost"
+        "db_name" => "DATABASE_NAME_HERE",
+        "db_user" => "DATABASE_USER_HERE",
+        "db_password" => "DATABASE_PASSWORD_HERE",
+        "db_host" => "DATABASE_HOST_HERE"
     )
 );
