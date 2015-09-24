@@ -1,0 +1,13 @@
+/app/*
+
+!/app/controllers
+/app/controllers/*
+!/app/controllers/CONTROLLERS_GO_HERE
+
+!/app/models
+/app/models/*
+!/app/models/MODELS_GO_HERE
+
+!/app/views
+/app/views/*
+!/app/views/VIEWS_GO_HERE
